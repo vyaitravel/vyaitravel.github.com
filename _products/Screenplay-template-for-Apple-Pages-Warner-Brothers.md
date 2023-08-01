@@ -9,7 +9,7 @@ date: 2020-01-21 23:12:06 +0100
 last_modified_at: '2020-05-17'
 price: Free
 text-button: I need this template to write my script!
-image: /images/templates/screenplay/Screenplay_Warner_Brothers_template.png
+image: /images/templates/jekyll/car.png
 ---
 
 ## Warner Brothers screenplay template for Apple Pages
