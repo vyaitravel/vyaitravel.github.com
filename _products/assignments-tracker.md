@@ -10,7 +10,7 @@ last_modified_at: '2020-02-26'
 id: invoices-tracker
 price: Free
 text-button: This could be useful, can I get it?
-image: /images/templates/assignments/assignments_tracker_spreadsheet.png
+image: /images/templates/jekyll/airport.jpeg
 ---
 
 
