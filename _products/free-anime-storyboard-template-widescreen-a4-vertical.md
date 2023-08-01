@@ -8,7 +8,7 @@ description_markdown: >-
 id:
 price: Free
 text-button: Can I get this template, please?
-image: /images/templates/free-pdf-storyboards/storyboard-anime-template_1.85x1_A4-vertical_photoshop_preview.png
+image: /images/templates/jekyll/apartment.jpg
 ---
 
 ## Free PDF storyboard template for 1.85:1 aspect ratio anime films
