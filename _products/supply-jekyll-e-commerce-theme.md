@@ -1,5 +1,5 @@
 ---
-title: Supply
+title: Khách Sạn
 layout: product
 software: Jekyll
 cat: web
