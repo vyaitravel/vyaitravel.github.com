@@ -10,7 +10,7 @@ last_modified_at: '2020-05-09'
 id: soon-jekyll
 price: Free
 text-button: Let me try this!
-image: /images/templates/jekyll/Soon_Jekyll-template-sample.png
+image: /images/templates/jekyll/apartment.jpg
 ---
 
 ## Soon is a simple "coming soon" page built for Jekyll.
