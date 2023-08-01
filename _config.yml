@@ -1,8 +1,8 @@
 # This will be the first part of the title tag for your site <title> site.name + page.title </title>
-title: Supply
-url: "https://supply.templates.supply" # the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
+title: V&A Travel
+url: "https://vyaitravel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
 baseurl:
-repo: https://github.com/YJPL/Supply/
+repo: https://github.com/vyaitravel/vyaitravel.github.com
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -10,15 +10,15 @@ logo: /siteicon.png
 tagline:
 description: Jekyll template for e-commerce with Gumroad integration
 author:
-  name: Supply
+  name: V&A Travel
   email:
-  twitter: TemplatesSupply # twitter username without the @ symbol
+  twitter: V&ATravel # twitter username without the @ symbol
   phone: ""
 social:
-  name: Templates Supply # replace this
+  name: V&A Travel # replace this
   links:
-    - https://github.com/YJPL/supply
-    - https://www.linkedin.com/company/templates-supply/
+    - https://github.com/vyaitravel/vyaitravel.github.com
+    - https://www.facebook.com/vyai.pt
 
 # Build settings
 markdown: kramdown
