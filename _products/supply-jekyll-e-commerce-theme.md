@@ -10,7 +10,7 @@ last_modified_at: '2020-02-26'
 id: soon-jekyll
 price: Free
 text-button: I demand Supply!
-image: /images/templates/jekyll/Supply-temp.png
+image: /images/templates/jekyll/hotel.jpg
 ---
 ## Supply, an e-commerce theme for Jekyll + Gumroad
 Supply is an e-commerce template for [Jekyll](https://jekyllrb.com/) + [Gumroad](https://gumroad.com) designed by by [alternatyves](https://alternatyves.com/). This is the theme underneath this site.
