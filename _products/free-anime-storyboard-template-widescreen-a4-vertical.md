@@ -8,7 +8,7 @@ description_markdown: >-
 id:
 price: Free
 text-button: Can I get this template, please?
-image: /images/templates/jekyll/resort.jpg
+image: /images/templates/jekyll/resort.jpeg
 ---
 
 ## Free PDF storyboard template for 1.85:1 aspect ratio anime films
