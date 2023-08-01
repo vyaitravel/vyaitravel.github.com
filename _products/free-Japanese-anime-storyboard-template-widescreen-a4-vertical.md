@@ -10,7 +10,7 @@ last_modified_at: '2020-02-26'
 id:
 price: Free
 text-button: Cool! Give me this template, please!
-image: /images/templates/free-pdf-storyboards/Japanese_Anime_storyboard-template_1.85x1_A4-vertical.png
+image: /images/templates/jekyll/bike.jpg
 ---
 
 ## Free PDF anime storyboard template for 1.85:1 films, in Japanese
