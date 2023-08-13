@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = false
     [languages.en.params]
       introTitle = "Vy Ái Travel"
       introSubtitle = "Cùng khám phá Quy nhơn, Bình Định. Hoà mình vào thiên nhiên và văn hoá của vùng đất võ."
-      introPhoto = "/picture.jpg"
+      introPhoto = "/quy-nhon.jpeg"
       logo = "/logo.png"
     [[languages.en.menu.main]]
         name = "Lưu Trú"
