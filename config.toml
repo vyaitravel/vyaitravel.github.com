@@ -16,23 +16,23 @@ DefaultContentLanguageInSubdir = false
       introPhoto = "/picture.jpg"
       logo = "/logo.png"
     [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Lưu Trú"
         url = "blog"
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
+        name = "Tour Du Lịch"
+        url = "blog"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Thuê Xe"
+        url = "blog"
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        name = "Ẩm Thực"
+        url = "blog"
         weight = 4     
 
 [params]
@@ -40,7 +40,7 @@ DefaultContentLanguageInSubdir = false
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
