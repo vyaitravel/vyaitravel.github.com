@@ -17,4 +17,6 @@ Một trong những niềm tự hào lớn nhất của tôi là đã hỗ trợ
 
 Không chỉ là một công việc, đối với tôi, đây là một cơ hội để thực hiện đam mê của mình và đóng góp vào sự phát triển của ngành du lịch tại Quy Nhơn. Tôi tin rằng thông qua sự nhiệt huyết và tận tâm của mình, tôi có thể giúp du khách có những kỷ niệm đáng nhớ và khám phá sự tuyệt vời của thành phố biển này, một nơi tôi tự hào gọi là ngôi nhà thứ hai của mình.
 
-![SurfBar](https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/245922206_2846321985628393_7197536145019071451_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5614bc&_nc_ohc=FHlGpx2Sl6kAX_pTYXw&_nc_ht=scontent.fsgn2-9.fna&oh=00_AfB9XJ_GOWobFAMRaQEuAna5zOLylaHlW9jl3pNPI34ZUQ&oe=64FC3323)
+![SurfBar](https://quynhontourist.com/wp-content/uploads/2020/10/ghenh-rang-tien-sa-quy-nhon-quynhontourist.jpg)
+
+Cảm ơn mọi người đã quan tâm đến dịch vụ du lịch của **Vy Ái Travel**! Chúc mọi người có những hành trình tuyệt vời và đáng nhớ.
