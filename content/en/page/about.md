@@ -11,7 +11,7 @@ Tôi tên **Phan Thị Vy Ái**, là một cô gái sinh ra và lớn lên ở T
 Quy Nhơn nằm ẩn sau những dãy núi uốn lượn và bãi biển đẹp tự nhiên, đã trở thành quê hương thứ hai của tôi. Với sự tò mò và sự yêu thích mạnh mẽ đối với ngành du lịch, tôi đã dành nhiều năm học tập và rèn luyện kỹ năng để trở thành một sinh viên xuất sắc trong lĩnh vực này.
 
 Những năm học và trải nghiệm làm việc trong lĩnh vực khách sạn tại Quy Nhơn đã giúp tôi hình thành tinh thần trách nhiệm và sẵn sàng hổ trợ mọi vấn đề của du khách. Tôi tận hưởng mỗi ngày làm việc, bởi đó là cơ hội để tôi kết nối với người từ khắp nơi trên mọi miền đất nước và chia sẻ những câu chuyện thú vị về Quy Nhơn.
-![Quy Nhon](http://imgs.baobacgiang.com.vn/2020/06/19/15/20200619154829-7.jpg)
+![Quy Nhon](/qn-topview.jpg)
 
 Một trong những niềm tự hào lớn nhất của tôi là đã hỗ trợ nhiều đợt du khách, sắp xếp các tour du lịch, dịch vụ lưu trú, di chuyển một cách an toàn, tiện lợi. Tôi luôn cố gắng tư vấn một cách chân thành và tận tâm, giúp du khách chọn lựa những trải nghiệm tốt nhất, thoải mái nhất để khám phá vẻ đẹp tự nhiên, văn hóa độc đáo và ẩm thực phong phú của Quy Nhơn.
 
