@@ -19,4 +19,4 @@ Không chỉ là một công việc, đối với tôi, đây là một cơ hộ
 
 ![SurfBar](https://quynhontourist.com/wp-content/uploads/2020/10/ghenh-rang-tien-sa-quy-nhon-quynhontourist.jpg)
 
-Cảm ơn mọi người đã quan tâm đến dịch vụ du lịch của **Vy Ái Travel**! Chúc mọi người có những hành trình tuyệt vời và đáng nhớ.
+Cảm ơn mọi người đã quan tâm đến dịch vụ du lịch của **Vy Ái Travel**. Chúc mọi người có những hành trình tuyệt vời và đáng nhớ.
