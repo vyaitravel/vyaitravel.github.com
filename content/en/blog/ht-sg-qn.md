@@ -1,10 +1,10 @@
 ---
 author: "Hugo Authors"
-title: "Placeholder Text"
-date: 2021-07-13
-description: "Lorem Ipsum Dolor Si Amet"
+title: "Khách Sạn Sài Gòn - Quy Nhơn"
+date: 2021-07-01
+description: "24 Nguyễn Huệ, Lê Lợi, Quy Nhơn"
 tags: ["markdown", "text"]
-thumbnail: /blog-post.jpg
+thumbnail: https://saigonquynhonhotel.com.vn/wp-content/uploads/2018/04/p2-1000x667.jpg
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
