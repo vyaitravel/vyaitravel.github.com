@@ -40,7 +40,12 @@ DefaultContentLanguageInSubdir = false
     [[languages.en.menu.main]]
         name = "Ẩm Thực"
         url = "blog"
-        weight = 5     
+        weight = 5    
+
+    [[languages.en.menu.main]]
+        name = "Giới Thiệu"
+        url = "page/about"
+        weight = 6   
 
 [params]
   # Enable the darkmode toggle in header
