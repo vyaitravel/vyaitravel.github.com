@@ -10,30 +10,37 @@ DefaultContentLanguageInSubdir = false
     contentDir = "content/en" #English
     weight = 1
     languageName = "English"
+
     [languages.en.params]
       introTitle = "Vy Ái Travel"
       introSubtitle = "Cùng khám phá Quy nhơn, Bình Định. Hoà mình vào thiên nhiên và văn hoá của vùng đất võ."
       introPhoto = "/quy-nhon.jpeg"
       logo = "/logo.png"
+
     [[languages.en.menu.main]]
-        name = "Lưu Trú"
-        url = "blog"
+        name = "Trang Chủ"
+        url = ""
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "Tour Du Lịch"
+        name = "Lưu Trú"
         url = "blog"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Thuê Xe"
+        name = "Tour Du Lịch"
         url = "blog"
         weight = 3
 
     [[languages.en.menu.main]]
+        name = "Thuê Xe"
+        url = "blog"
+        weight = 4
+
+    [[languages.en.menu.main]]
         name = "Ẩm Thực"
         url = "blog"
-        weight = 4     
+        weight = 5     
 
 [params]
   # Enable the darkmode toggle in header
@@ -66,11 +73,11 @@ DefaultContentLanguageInSubdir = false
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  frontBundle = "home"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = false
+  hideMeta = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
@@ -110,63 +117,13 @@ DefaultContentLanguageInSubdir = false
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "Liên Hệ"
+  description = "Zalo: 038.292.8009 (Ms. Vy Ái)"
 
   [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/"
-  [[params.homepage.social.icons]]
-    website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
-  [[params.homepage.social.icons]]
-    website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
-  [[params.homepage.social.icons]]
-    website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
-  [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
+    url = "https://www.facebook.com/vyai.pt"
+
 
 [[menu.main]]
   name = "About"
